@@ -1,1 +1,1 @@
-# SQL_Case-Study--Sales
+# SQL_Case_Study-Sales
