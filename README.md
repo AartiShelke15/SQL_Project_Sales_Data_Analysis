@@ -10,4 +10,4 @@ This project not only helps in mastering SQL but also provides a practical under
 # **Database and Tools**
 * MySQL Workbench
 
-## *Schema- Music Store Database*
+## *Schema- Sales Database*
