@@ -7,3 +7,7 @@ By completing this project, you’ll gain a solid understanding of how to analyz
 
 This project not only helps in mastering SQL but also provides a practical understanding of how data analysis can be applied to real-world business scenarios.
 
+# **Database and Tools**
+* MySQL Workbench
+
+## *Schema- Music Store Database*
