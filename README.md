@@ -1,4 +1,4 @@
-* * SQL_Project_Sales_Data_Analysis
+***  SQL_Project_Sales_Data_Analysis
 
 SQL project to analyze sales data
 This project is designed for beginners and will guide you through analyzing a sales database. You'll learn how to use SQL to extract valuable insights from the data, helping a business understand its sales performance and growth trends. By the end of the project, you’ll be able to answer key business questions using SQL queries.
