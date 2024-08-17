@@ -11,3 +11,4 @@ This project not only helps in mastering SQL but also provides a practical under
 * MySQL Workbench
 
 ## *Schema- Sales Database*
+![SalesDatabaseSchema](https://github.com/user-attachments/assets/20c4d55a-0beb-4c01-b9e2-94c6406ff237)
